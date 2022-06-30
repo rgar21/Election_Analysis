@@ -12,7 +12,7 @@ The intent of this analysis is to help our client verify election results by sor
 
 ## Election Audit Results
 
-Below is an overview of the election results:
+Below is an overview of the election results from terminal:
 
 ![election_results](https://user-images.githubusercontent.com/106921601/176581096-dd588d91-3c67-447a-aa6d-42304e1990e0.png)
 
@@ -29,3 +29,9 @@ Below is an overview of the election results:
   * Winning Candidate: Diana DeGette
     * Winning Vote Count: 272,892
     * Winning Percentage: 73.8%
+ 
+## Election Audit Summary
+
+This script gives our client a solid foundation to make additional revisions or improvements for future elections. One modification that can be made to the script is to add additional filters such as precint location to gain generalized information of voting populations. Another possible modification that could could be made to this script is to cross reference the votes to determine which counties voted for which candidate. This type of information could help future election committees gain greater insight as to where their votes are coming from. 
+
+
