@@ -13,7 +13,9 @@ The intent of this analysis is to help our client verify election results by sor
 ## Election Audit Results
 
 Below is an overview of the election results:
+
 ![election_results](https://user-images.githubusercontent.com/106921601/176581096-dd588d91-3c67-447a-aa6d-42304e1990e0.png)
+
   * Total Votes Cast: 369,711
   * County Votes:
     * Jefferson: 10.5% (38,855)
